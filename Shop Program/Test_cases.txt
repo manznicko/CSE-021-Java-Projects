@@ -1,0 +1,9 @@
+THIS IS TEST_CASES
+I 1- Called for 5 items, entered string of letters and positive whole numbers to see if they went through 
+I 2 - Reran right after I1, called for 3 items, gave string of letters, entered in negative # for package amount then decimal # for price, 
+II 1 - Ran after I2, Entered all zeroes
+II 2 - after II1, entered negative #, then positive number
+III 1 - Ran aftter II2
+III2 - Ran after II1
+IV 1 - Ran after input of II2
+IV 2 - Ran after II1
